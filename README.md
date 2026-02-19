@@ -14,3 +14,11 @@ The purpose of this project is to provide a clear example of how front-end desig
 
 ### Author
 Jasmin Aryee
+
+### Images
+
+<img width="1919" height="927" alt="Screenshot 2026-02-19 142844" src="https://github.com/user-attachments/assets/0ef19de3-84da-41a0-9d49-d14ff0a65bb8" />
+
+<img width="601" height="910" alt="Screenshot 2026-02-19 143042" src="https://github.com/user-attachments/assets/214104b1-2e98-4032-ba2f-4065599c7566" />
+
+<img width="573" height="817" alt="Screenshot 2026-02-19 143014" src="https://github.com/user-attachments/assets/ac4ee7d1-0b30-4714-ab9a-b136a841b00a" />
